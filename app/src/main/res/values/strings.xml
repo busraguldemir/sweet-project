@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">sweet</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="sweety">Sweety</string>
+    <string name="sign_in"> Giriş yap</string>
+    <string name="ad_soyad">Ad Soyad</string>
+    <string name="email">Email</string>
+    <string name="parola">Parola</string>
+    <string name="zaten_bir_hesab_n_var_m">Zaten bir hesabın var mı?</string>
+    <string name="kay_t_ol">Kayıt ol</string>
+    <string name="hen_z_bir_hesab_n_yok_mu">Henüz bir hesabın yok mu?</string>
+    <string name="tatl_lar">Tatlılar</string>
+    <string name="favoriler">Favoriler</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="kart_m">Kartım</string>
+    <string name="sepetim">Sepetim</string>
+    <string name="k_yap">Çıkış yap</string>
+    <string name="anasayfa">Anasayfa</string>
+    <string name="_10_00_23_00">10.00-23.00</string>
+    <string name="ikolata_par_ac_kl_kurabiye">Çikolata Parçacıklı Kurabiye</string>
+    <string name="_4_0">4.0</string>
+    <string name="deme_yap">Ödeme Yap</string>
+    <string name="sepetim2">Sepetim</string>
+    <string name="ecekler">İçecekler</string>
+    <string name="_12">12</string>
+</resources>
